@@ -1,0 +1,11 @@
+{
+    "name": "BLUE",
+    "description": "B in RGB!",
+    "image": "https://ipfs.io/ipfs/QmUPjADFGEKmfohdTaNcWhp7VGk26h5jXDA7v3VtTnTLcW?filename=st-bernard.png",
+    "attributes": [
+        {
+            "rarity": "high",
+            "value": 60
+        }
+    ]
+}

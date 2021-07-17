@@ -1,0 +1,11 @@
+{
+    "name": "RED",
+    "description": "The first color of RGB",
+    "image": "https://gateway.pinata.cloud/ipfs/QmaGcgiz8kW2BoodSmZyPRC2spXxtuQqJPX3Q52YsMU4Fc",
+    "attributes": [
+        {
+            "rarity": "high",
+            "value": 100
+        }
+    ]
+}

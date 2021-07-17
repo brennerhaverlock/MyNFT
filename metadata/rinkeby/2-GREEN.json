@@ -1,0 +1,11 @@
+{
+    "name": "GREEN",
+    "description": "The G in RGB!",
+    "image": "https://ipfs.io/ipfs/QmYx6GsYAKnNzZ9A6NvEKV9nf1VaDzJrqDR23Y8YSkebLU?filename=shiba-inu.png",
+    "attributes": [
+        {
+            "rarity": "high",
+            "value": 80
+        }
+    ]
+}
